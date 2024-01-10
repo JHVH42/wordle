@@ -11,6 +11,7 @@ sagaz
 botao
 rasto
 metro
+porto
 negro
 termo
 exito
@@ -90,6 +91,7 @@ mundo
 atroz
 forte
 vicio
+amora
 cozer
 valha
 denso
@@ -466,6 +468,8 @@ retem
 curso
 verba
 judeu
+poste
+china
 posto
 bioma
 caber
